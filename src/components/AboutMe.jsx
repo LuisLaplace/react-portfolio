@@ -1,13 +1,7 @@
-import React from 'react';
-
-const AboutMe = () => {
-  return (
+const AboutMe = () => (
     <section>
-      <h2>About Me</h2>
-      <img src="/path-to-your-photo.jpg" alt="Your Name" />
-      <p>This is a short bio about yourself.</p>
+      <p>As a full-stack developer, I blend a deep passion for both art and technology to create innovative solutions that enhance communication and understanding. My approach integrates creative thinking with logical programming, enabling me to deliver impactful results. I am committed to lifelong learning, constantly acquiring new skills to help individuals and organizations achieve their aspirations.</p>
     </section>
   );
-}
-
-export default AboutMe;
+  
+  export default AboutMe;
