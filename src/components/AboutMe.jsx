@@ -1,6 +1,6 @@
 const AboutMe = () => (
     <section>
-      <p>As a full-stack developer, I blend a deep passion for both art and technology to create innovative solutions that enhance communication and understanding. My approach integrates creative thinking with logical programming, enabling me to deliver impactful results. I am committed to lifelong learning, constantly acquiring new skills to help individuals and organizations achieve their aspirations.</p>
+      <p>As a recent full-stack web development graduate, I bring a unique blend of creativity and technical expertise to the projects I undertake. My passion lies at the intersection of art and technology, where I strive to develop solutions that not only function seamlessly but also resonate with users on an emotional level. I approach every challenge with a balance of innovative design thinking and methodical programming, ensuring that my work is both aesthetically pleasing and technically robust. Committed to continuous learning, I am always eager to expand my skill set and stay on the cutting edge of the latest industry trends. My goal is to empower individuals and organizations by transforming their ideas into powerful digital experiences.</p>
     </section>
   );
   
